@@ -1,0 +1,1 @@
+![Output](search_script.png "Program Output")
